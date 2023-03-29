@@ -1,8 +1,0 @@
-Nivel 1:
-
-Ejericio 2:
-
-Paso 1, acceder a la ruta donde esta nuestro proyecto. Abrimos la terminal y ponemos el comando "cd seguido de la ruta"
-Paso 2, complilamos el main y las clases con el comando "javac seguido del nombre del main y de las clases propias del proyecto"
-Paso 3, regresamos una carpeta atrás en el proyecto con "cd.."
-Paso 4, ejecutamos la aplicacion con el comando, "java nombre de la carpeta que contiene el proyecto.nombre del main y la ruta como parametros entre comillas"
